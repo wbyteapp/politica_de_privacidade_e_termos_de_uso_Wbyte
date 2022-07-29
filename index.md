@@ -66,5 +66,5 @@ Recordamos que nós temos como compromisso não tratar os seus dados pessoais de
 Sua utilização do aplicativo após as alterações significa que aceitou as Políticas de Privacidade revisadas. Caso, após a leitura da versão revisada, você não esteja de acordo com seus termos,você poderá encerrar e desinstalar o aplicativo do seu dispositivo.
 
 Seção 9 - Encarregado do tratamento dos Dados Pessoais
-Caso pretenda exercer qualquer um dos direitos previstos, inclusive retirar o seu consentimento, nesta Política de Privacidade e/ou nas Leis de proteção de dados, ou resolver quaisquer dúvidas relacionadas ao tratamento de seus dados pessoais se assim for coletado no aplicativo, favor contatar-nos em wbyte.info@gmail.com.
+Caso pretenda exercer qualquer um dos direitos previstos, inclusive retirar o seu consentimento, nesta Política de Privacidade e/ou nas Leis de proteção de dados, ou resolver quaisquer dúvidas relacionadas ao tratamento de seus dados pessoais se assim for coletado no aplicativo, favor contatar-nos em wbyte.info@gmail.com. 
 
