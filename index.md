@@ -61,7 +61,7 @@ Não nos responsabilizamos pelas políticas e práticas de coleta, uso e divulga
 Seção 8 - Atualizações desta Política de Privacidade
 Se modificarmos nossa Política de Privacidade e termo de uso, publicaremos o novo texto no aplicativo, com a data de revisão atualizada. Podemos alterar esta Política de Privacidade a qualquer momento. Caso haja alteração significativa nos termos desta Política de Privacidade, podemos informá-lo por meio das informações de contato que tivermos em nosso banco de dados ou por meio de notificação em nosso aplicativo.
 
-Recordamos que nós temos como compromisso não tratar os seus dados pessoais de forma incompatível com os objetivos descritos acima, exceto se de outra forma requerido por lei ou ordem judicial.
+Recordamos que nós temos como compromisso não tratar os seus dados pessoais de forma incompatível com os objetivos descritos acima, exceto se de outra forma requerido por lei ou ordem judicial. 
 
 Sua utilização do aplicativo após as alterações significa que aceitou as Políticas de Privacidade revisadas. Caso, após a leitura da versão revisada, você não esteja de acordo com seus termos,você poderá encerrar e desinstalar o aplicativo do seu dispositivo.
 
