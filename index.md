@@ -2,8 +2,7 @@
 
 Esta política é válida a partir de Jul 2022.
 
-Política de Privacidade Wbyte
-Wbyte zela pela segurança e proteção de dados de todos os seus clientes, parceiros, fornecedores e usuários dos serviços
+A Wbyte zela pela segurança e proteção de dados de todos os seus clientes, parceiros, fornecedores e usuários dos serviços
 
 Esta Política de Privacidade destina-se a informá-lo sobre o modo como nós utilizamos e divulgamos informações coletadas em suas visitas a nossos aplicativos e em mensagens que trocamos com você.
 
