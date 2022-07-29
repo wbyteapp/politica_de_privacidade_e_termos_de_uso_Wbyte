@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Termos de uso e politica de privacidade Wbyte
 
 You can use the [editor on GitHub](https://github.com/wbyteapp/politica_de_privacidade_e_termos_de_uso_Wbyte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
