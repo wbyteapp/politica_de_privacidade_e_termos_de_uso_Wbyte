@@ -2,15 +2,15 @@
 
 Esta política é válida a partir de Novembro de 2023.
 
-Política de Privacidade e Termos de Uso - Qcode-código Q
+Política de Privacidade e Termos de Uso - OnRadio
 
 Última atualização: 30/11/2023
 
-Bem-vindo ao Qcode-código Q! Este documento estabelece as diretrizes para o uso do nosso aplicativo e descreve como tratamos as informações fornecidas pelos usuários.
+Bem-vindo ao OnRadio! Este documento estabelece as diretrizes para o uso do nosso aplicativo e descreve como tratamos as informações fornecidas pelos usuários.
 
 1. Coleta de Dados:
 
-O Qcode-código Q tem o compromisso de proteger a privacidade dos usuários e informa que não coletamos nenhum dado pessoal identificável. Não solicitamos informações como nome, endereço, número de telefone ou qualquer outro dado pessoal.
+O OnRadio tem o compromisso de proteger a privacidade dos usuários e informa que não coletamos nenhum dado pessoal identificável. Não solicitamos informações como nome, endereço, número de telefone ou qualquer outro dado pessoal.
 
 2. Informações Coletadas Automaticamente:
 
@@ -18,7 +18,7 @@ Para melhorar a experiência do usuário, o aplicativo pode coletar informaçõe
 
 3. Uso de Cookies:
 
-O Qcode-código Q não utiliza cookies para coletar informações pessoais dos usuários.
+O OnRadio não utiliza cookies para coletar informações pessoais dos usuários.
 
 4. Compartilhamento de Dados:
 
@@ -30,21 +30,21 @@ Adotamos medidas de segurança adequadas para proteger as informações coletada
 
 6. Termos de Uso:
 
-Ao utilizar o Qcode-código Q, você concorda com os seguintes termos:
+Ao utilizar o OnRadio, você concorda com os seguintes termos:
 
 a. O aplicativo destina-se ao uso exclusivo para fins legítimos e não pode ser utilizado para atividades ilegais.
 
 b. O usuário concorda em não explorar, desativar ou comprometer a segurança do aplicativo.
 
-c. O Qcode-código Q reserva-se o direito de modificar ou encerrar o serviço a qualquer momento, sem aviso prévio.
+c. O OnRadio reserva-se o direito de modificar ou encerrar o serviço a qualquer momento, sem aviso prévio.
 
 7. Alterações na Política de Privacidade:
 
-O Qcode-código Q pode atualizar esta política periodicamente. Recomendamos que os usuários revejam este documento regularmente para estar cientes de quaisquer alterações.
+O OnRadio pode atualizar esta política periodicamente. Recomendamos que os usuários revejam este documento regularmente para estar cientes de quaisquer alterações.
 
 8. Anúncios do AdMob:
 
-O Qcode-código Q utiliza o serviço de anúncios AdMob, fornecido pelo Google, para exibir publicidade dentro do aplicativo. O AdMob pode coletar informações para personalizar os anúncios de acordo com os interesses do usuário.
+O OnRadio utiliza o serviço de anúncios AdMob, fornecido pelo Google, para exibir publicidade dentro do aplicativo. O AdMob pode coletar informações para personalizar os anúncios de acordo com os interesses do usuário.
 
 8.1 Dados Coletados pelo AdMob:
 
@@ -60,13 +60,13 @@ Para obter informações detalhadas sobre como o AdMob trata os dados dos usuár
 
 9. Consentimento para Anúncios:
 
-Ao utilizar o Qcode-código Q, o usuário concorda com a exibição de anúncios do AdMob e reconhece que esses anúncios podem coletar e utilizar informações de acordo com a Política de Privacidade do AdMob.
+Ao utilizar o OnRadio, o usuário concorda com a exibição de anúncios do AdMob e reconhece que esses anúncios podem coletar e utilizar informações de acordo com a Política de Privacidade do AdMob.
 
 Contato:
 
 Em caso de dúvidas ou preocupações sobre nossa política de privacidade e termos de uso, entre em contato conosco em wbyte.info@gmail.com
 
-Ao utilizar o Qcode-código Q, você concorda com os termos estabelecidos neste documento. Obrigado por escolher nosso aplicativo!
+Ao utilizar o OnRadio, você concorda com os termos estabelecidos neste documento. Obrigado por escolher nosso aplicativo!
 
 - Wbyte Sistemas
 
