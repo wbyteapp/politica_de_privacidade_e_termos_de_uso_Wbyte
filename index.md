@@ -42,6 +42,26 @@ c. O Qcode-código Q reserva-se o direito de modificar ou encerrar o serviço a 
 
 O Qcode-código Q pode atualizar esta política periodicamente. Recomendamos que os usuários revejam este documento regularmente para estar cientes de quaisquer alterações.
 
+8. Anúncios do AdMob:
+
+O Qcode-código Q utiliza o serviço de anúncios AdMob, fornecido pelo Google, para exibir publicidade dentro do aplicativo. O AdMob pode coletar informações para personalizar os anúncios de acordo com os interesses do usuário.
+
+8.1 Dados Coletados pelo AdMob:
+
+O AdMob pode coletar dados não pessoais, como identificadores de dispositivos, informações de localização aproximada, informações sobre interações com os anúncios e outros dados semelhantes.
+
+8.2 Uso dos Dados pelo AdMob:
+
+As informações coletadas pelo AdMob são utilizadas para fornecer anúncios mais relevantes e melhorar a eficácia das campanhas publicitárias.
+
+8.3 Política de Privacidade do AdMob:
+
+Para obter informações detalhadas sobre como o AdMob trata os dados dos usuários, consulte a Política de Privacidade do AdMob disponível em https://policies.google.com/privacy?hl=pt-BR
+
+9. Consentimento para Anúncios:
+
+Ao utilizar o Qcode-código Q, o usuário concorda com a exibição de anúncios do AdMob e reconhece que esses anúncios podem coletar e utilizar informações de acordo com a Política de Privacidade do AdMob.
+
 Contato:
 
 Em caso de dúvidas ou preocupações sobre nossa política de privacidade e termos de uso, entre em contato conosco em wbyte.info@gmail.com
